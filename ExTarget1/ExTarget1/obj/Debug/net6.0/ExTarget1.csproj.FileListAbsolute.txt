@@ -1,0 +1,15 @@
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\bin\Debug\net6.0\ExTarget1.exe
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\bin\Debug\net6.0\ExTarget1.deps.json
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\bin\Debug\net6.0\ExTarget1.runtimeconfig.json
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\bin\Debug\net6.0\ExTarget1.dll
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\bin\Debug\net6.0\ExTarget1.pdb
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.csproj.AssemblyReference.cache
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.AssemblyInfoInputs.cache
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.AssemblyInfo.cs
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.csproj.CoreCompileInputs.cache
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.dll
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\refint\ExTarget1.dll
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.pdb
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ExTarget1.genruntimeconfig.cache
+C:\Users\enric\Pastas\projetos-c-sharp\ExTarget1\ExTarget1\obj\Debug\net6.0\ref\ExTarget1.dll
